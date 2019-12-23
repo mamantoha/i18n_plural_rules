@@ -1,0 +1,13 @@
+name: i18n_plural_rules
+version: 0.1.0
+
+authors:
+  - Anton Maminov <anton.maminov@gmail.com>
+
+dependencies:
+  i18n:
+    github: TechMagister/i18n.cr
+
+crystal: 0.32.1
+
+license: MIT
