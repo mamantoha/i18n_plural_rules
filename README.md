@@ -1,5 +1,7 @@
 # i18n_plural_rules
 
+[![Build Status](https://travis-ci.org/mamantoha/i18n_plural_rules.svg?branch=master)](https://travis-ci.org/mamantoha/i18n_plural_rules)
+
 Custum plural rules support for [i18n.cr](https://github.com/TechMagister/i18n.cr) library.
 
 ## Installation
