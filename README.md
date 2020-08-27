@@ -4,6 +4,11 @@
 
 Custom plural rules support for [i18n.cr](https://github.com/TechMagister/i18n.cr) library.
 
+## Deprecation notice
+
+[i18n.cr](https://github.com/TechMagister/i18n.cr) shard supports locale specific pluralization out of the box from this [PR](https://github.com/TechMagister/i18n.cr/pull/22).
+
+
 ## Installation
 
 1. Add the dependency to your `shard.yml`:
